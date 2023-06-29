@@ -9,7 +9,7 @@ frase = "Persista, não desista!";
 print("Caracteres: ", len(frase));
 print("Caixa Alta: ", frase.upper());
 print("Divisão da string", frase.split());
-
+print("Substituindo palavra da string: ", frase.replace );
 
 nome = "Renan";
 sobrenome = "Teixeira";
