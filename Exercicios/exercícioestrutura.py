@@ -55,7 +55,7 @@ if palavra == palavraInvertida:
 else:
     print("A palavra não é um palíndromo.");
     
-#ara
+#
 
 num1 = 1;
 
